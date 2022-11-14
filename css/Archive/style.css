@@ -1,0 +1,33 @@
+body {
+    background-color: lavenderblush;
+}
+header {
+    color-scheme: aqua;
+}
+h1 {
+    color: skyblue;
+}
+
+a {
+    color: skyblue;
+}
+
+p {
+    color: turquoise
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    border: 2px solid aquamarine;
+}
+footer {
+    text-align: center;
+}
+li {
+    color:coral;
+}
+li :hover{
+    text-decoration: none;
+}
